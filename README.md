@@ -1,2 +1,2 @@
 # Portafolio
-Proyecto de portafolio sobre las características profesionales de Ana García
+Proyecto de portafolio sobre las características profesionales de una persona.
